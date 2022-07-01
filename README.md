@@ -28,12 +28,22 @@
 
 |_ zengjiashuju.py：增加数据集（图像翻转）
 
-### 数据集
+### 数据集：
 
 数据集下载链接：https://pan.baidu.com/s/1aw_cmqhYXEBp3eprVtY-KA 
 提取码：9e89
 
-### 模型
+### 模型：
 
 模型下载链接：https://pan.baidu.com/s/13Cu6VMv9cE_filsfjmWKsA 
 提取码：fwi5
+
+### 步骤：
+
+![image-20220701141631928](C:\Users\64228\AppData\Roaming\Typora\typora-user-images\image-20220701141631928.png)
+
+### 训练及测试结果：
+
+![image-20220701141730589](C:\Users\64228\AppData\Roaming\Typora\typora-user-images\image-20220701141730589.png)
+
+![image-20220701141736236](C:\Users\64228\AppData\Roaming\Typora\typora-user-images\image-20220701141736236.png)
